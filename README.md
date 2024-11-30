@@ -1,0 +1,2 @@
+Hello there, this is my first TOP project and the current project is to create a basic recipe website.
+The plan is to create a basic website consisting of the HTML elements I have learned. Headings, titles, font formats, and page organization will be created as well as creating links to other pages and displaying images, too. 
